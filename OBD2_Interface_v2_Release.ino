@@ -1,5 +1,5 @@
 /*
- Name: OBD2_Interface_v2.ino
+Name: OBD2_Interface_v2.ino
 Description: Designed specifically for connection to a Land Rover Freelander 2 (VIN: >382339)
 Created: Sep 2024
 Author: Kevin Guest AKA TheBionicBone
@@ -179,7 +179,7 @@ TFT_eSPI TFT_Rectangle_ILI9341 = TFT_eSPI();
 */
 // ALLOW_SENDING_DATA_TO_CAN_BUS 0 = Safe, even if a send message is attempted it will be ignored
 // ALLOW_SENDING_DATA_TO_CAN_BUS 1 = Caution, send message requests will be sent to the vehicle regardsless of consequences
-#define ALLOW_SENDING_DATA_TO_CAN_BUS 1
+#define ALLOW_SENDING_DATA_TO_CAN_BUS 0
 
 
 #if ALLOW_SENDING_DATA_TO_CAN_BUS == 1
