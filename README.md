@@ -40,7 +40,7 @@ Save CAN Bus Data from both High Speed and Medium Speed buses onto SD Card and l
 ![image](https://github.com/user-attachments/assets/78b7f6fd-10b4-4932-aff5-8ba98f14cf12)
 
 
-$${\color{blue}Connections \space and \space Equipment:}$$  
+${\color{blue}Connections \space and \space Equipment:}$  
 // Connections to the ESP32-S3 Follow:  
   Power 5v Switched Supply  
   GND = GND  
@@ -89,5 +89,9 @@ $${\color{blue}Connections \space and \space Equipment:}$$
   GND = GND  
   Botton = 21  
 
+
+${\color{red}SPECIAL \space WARNING:}$  
+
+![image](https://github.com/user-attachments/assets/70384bf5-494f-44d3-9cf9-17712c900902)
 
   
