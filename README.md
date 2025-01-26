@@ -92,6 +92,5 @@ ${\color{blue}Connections \space and \space Equipment:}$
 
 ${\color{red}SPECIAL \space WARNING:}$  
 
-![image](https://github.com/user-attachments/assets/70384bf5-494f-44d3-9cf9-17712c900902)
-
+![image](https://github.com/user-attachments/assets/70384bf5-494f-44d3-9cf9-17712c900902)    ![image](https://github.com/user-attachments/assets/e26b71df-2afb-4aa3-b4d6-6f36ad0ed93c)
   
